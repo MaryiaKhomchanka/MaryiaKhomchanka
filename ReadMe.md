@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🩷 Haaiiii! My name is Maryia, I'm happy to see you here!<br><br>🌸 Currently I mostly focus on Data Analysis and Machine Learning<br><br>
+🌸 Haaiiii! My name is Maryia, I'm happy to see you here!<br><br>🌸 Currently I mostly focus on Data Analysis and Machine Learning<br><br>
 
 
 ## 🌐 Socials:
