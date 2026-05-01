@@ -1,37 +1,16 @@
 <p align="center">
-  <img src="./your-gif-name.gif" alt="Sakura banner" width="750"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE5dzV4cmFmdXlwY3FrM3QzbDZsYjdpenZtbndxbGdkNnR5NDg2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YS7BctOtlyed2/giphy.gif" alt="profile gif" width="700"/>
 </p>
 
-<h1 align="center">🌙 About Me 🌸</h1>
+# 💫 About Me:
+🩷 Haaiiii! My name is Maryia, I'm happy to see you here!<br><br>🌸 Currently I mostly focus on Data Analysis and Machine Learning<br><br>
 
-<p align="center">
-  🩷 Haaiiii! My name is <b>Maryia</b>, I'm happy to see you here! 🩷
-</p>
 
-<p align="center">
-  🌸 Currently I mostly focus on <b>Data Analysis</b> and <b>Machine Learning</b> 🌸
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maryia-khomchanka-6aba1a374) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-ffb6c1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffc0cb.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-ff9eb5.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-ff69b4.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-db7093.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Unity](https://img.shields.io/badge/unity-ffb6c1.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-ff69b4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-<h2 align="center">🌐 Socials</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/maryia-khomchanka-6aba1a374">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffc0cb?style=for-the-badge&logo=Matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-ff9eb5?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-db7093?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-ffb6c1?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
