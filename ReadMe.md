@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE5dzV4cmFmdXlwY3FrM3QzbDZsYjdpenZtbndxbGdkNnR5NDg2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YS7BctOtlyed2/giphy.gif" alt="profile gif" width="700"/>
 </p>
 
-# 💫 About Me:
+# 🩷 About Me:
 🌸 Haaiiii! My name is Maryia, I'm happy to see you here!<br><br>🌸 Currently I mostly focus on Data Analysis and Machine Learning<br><br> 🌸 I'm also trying to learn how to use Unity, so I'll post something game-related in the future <br><br> 🌸 I'm from Latvia, Riga >:D 
 
 
