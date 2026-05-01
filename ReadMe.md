@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🌸 Haaiiii! My name is Maryia, I'm happy to see you here!<br><br>🌸 Currently I mostly focus on Data Analysis and Machine Learning<br><br>
+🌸 Haaiiii! My name is Maryia, I'm happy to see you here!<br><br>🌸 Currently I mostly focus on Data Analysis and Machine Learning<br><br> 🌸 I'm also trying to learn how to use Unity, so I'll post something game-related in the future <br><br> 🌸 I'm from Latvia, Riga >:D 
 
 
 ## 🌐 Socials:
